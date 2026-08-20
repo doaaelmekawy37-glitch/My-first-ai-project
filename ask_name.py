@@ -1,6 +1,6 @@
-# نسأل المستخدم عن اسمه
-name = input("اكتب اسمك: ")
+# Ask user for name
+name = input("What's your name: ")
 
-# نرحب بيه
-print("أهلاً يا " + name + "!")
-print("منور/ة في رحلة الذكاء الاصطناعي 🌟")
+# Greet them
+print("Hello " + name + "!")
+print("Welcome to AI journey 🌟")
